@@ -6,9 +6,9 @@ Vatsinator是一个用于显示[VATSIM](http://www.vatsim.net)飞行员、管制
 ##翻译信息
 [VATPRC](http://www.vatprc.net) [Ziheng Gao](http://www.vatprc.net) 在7/12/2015完成了适用于v0.2.1版本的翻译工作。
 ##使用说明
-**translations**文件夹存放着发行版翻译文件，请将**cn.language**和**vatsinator-cn.qm**两个文件复制到安装位置**translations**目录中，并在vatsinator设置中选择**简体中文**
-**source**文件夹存放了.ts QML翻译原文本，供开发人员参考，使用XML格式
+	**translations**文件夹存放着发行版翻译文件，请将**cn.language**和**vatsinator-cn.qm**两个文件复制到安装位置**translations**目录中，并在vatsinator设置中选择**简体中文**
+	**source**文件夹存放了.ts QML翻译原文本，供开发人员参考，使用XML格式
 ##Changlog
-*v1.0
-** 首次发布适用于v0.2.1版本
+v1.0
+* 首次发布适用于v0.2.1版本
 
