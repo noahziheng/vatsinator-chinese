@@ -1,8 +1,7 @@
 # Vatsinator 简体中文翻译包
 ##Vatsinator 简介
-Vatsinator是一个用于显示[VATSIM](http://www.vatsim.net)飞行员、管制员、机场等信息的简易监视器
-由Michał Garapich创建，部署在github,项目地址<https://github.com/Vatsinator/Vatsinator>
-发型网站<http://vatsinator.eu.org>
+Vatsinator是一个用于显示[VATSIM](http://www.vatsim.net)飞行员、管制员、机场等信息的简易监视器。
+由Michał Garapich创建，部署在github,项目地址<https://github.com/Vatsinator/Vatsinator>，网站<http://vatsinator.eu.org>。
 ##翻译信息
 [VATPRC](http://www.vatprc.net) [Ziheng Gao](http://www.vatprc.net) 在7/12/2015完成了适用于v0.2.1版本的翻译工作。
 ##使用说明
